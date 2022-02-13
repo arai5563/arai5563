@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Amit & I ❤️ Code. 
 
-![](https://media-exp1.licdn.com/dms/image/C5616AQEvCfpQFX9SGw/profile-displaybackgroundimage-shrink_350_1400/0/1644484129451?e=1649894400&v=beta&t=sd3scjfUEqDtKYw6QkBm8aNUSi3kZMzMpfL8B3IXhxk)
+![](https://cur.glitter-graphics.net/pub/3709/3709867xl1xgcdhy8.gif)
 
 
 
