@@ -9,6 +9,7 @@
 A Chemical engineer and Full-Stack Web Developer with ability to learn and collaborate in rapidly changing environments and compositions. Worked through 1000+ hours of bootcamp structure, learning HTML, CSS, JavaScript, Node.Js, React.Js. When I'm working on a project I always like to find the best technologies to use and learn how to apply them. 
 I'm currently Learning Full-Stack Web Development at Masai School. 
 
+<img align= "right" alt= "coding" width ="400" src = "https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 - 🌱 I’m currently learning REACT 
 - 👯 I’m looking to collaborate on open source
